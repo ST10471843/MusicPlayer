@@ -10,6 +10,8 @@ I have created a lofi now playing screen. I made use of glassmorphism and includ
 
 
 ## Screenshot 
+<img width="247" height="651" alt="image" src="https://github.com/user-attachments/assets/9a239fed-59a3-4eae-ad74-48c514e96311" />
+
 
 ## Reference List
 MDN Web Docs (2025) HTML: HyperText Markup Language. Mozilla Developer Network. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
